@@ -8,9 +8,8 @@ body {
 	height: 100vh;
 	display: grid;
 	grid-template-columns: repeat(58, 1fr);
-	grid-template-rows: repeat(60, 20px);
+	grid-template-rows: repeat(60, 3.5%);
 }
-
 article {
 /* 	border: solid 2px black; */
 	background-color: #ebd49b;
