@@ -4,6 +4,8 @@
 	box-sizing: border-box;
 }
 body {
+	width: 50vw;
+	height: 100vh;
 	display: grid;
 	grid-template-columns: repeat(58, 1fr);
 	grid-template-rows: repeat(60, 20px);
